@@ -11,10 +11,20 @@ The embedding process converts text to an N-dimensional vector
 - Diversity Measurement: where similarity distributions are analysed
 - Classification : where text strings are classified by their most similar label
 
-### Project Description:
-- In this project text embedding is used to convert a set of text information about start-ups into vectors.
-- Then these vectors are used to add context to a query, assisting the completion model in answering a query.
-- Document Similarity:
-1. Embed a query string ro vectors
-2. Perform a cosine similarity between query vector and all our document vectors.
-3. Choose most similar and inject context
+### Project Description: 
+Developed a sophisticated approach to enhance question answering by utilizing text embedding techniques. The project focuses on converting textual information related to start-ups into vectors, subsequently integrating these vectors to add contextual understanding to queries. The central objective was to improve the performance of a query completion model by providing relevant context.
+
+### Project Highlights:
+
+Employed advanced text embedding methodologies to transform start-up information into numerical vectors.
+Integrated these vectors to enrich queries with context, enhancing the query completion model's response accuracy.
+Implemented document similarity using cosine similarity to identify the most relevant context for a given query.
+Achieved enhanced performance in question answering through the injected contextual understanding.
+
+### Skills Utilized:
+
+- Text Embedding
+- Natural Language Processing (NLP)
+- Document Similarity
+- OpenAi API
+- Prompt Engineering
